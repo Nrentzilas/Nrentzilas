@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hey there, I'm Nrentzilas! 👋😄
 
-<!--
-**Nrentzilas/Nrentzilas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at **Digital Systems UTH** 🎓 and an aspiring Full-Stack Developer 🖥️💻 based in **Greece** 🇬🇷. I love coding, exploring new technologies, and sharing my projects with the community 🚀✨.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 My Projects at a Glance
+
+| **Project** | **Description** | **Tech** | **Stars** |
+|-------------|-----------------|----------|-----------|
+| [Auto-Unzipper](https://github.com/Nrentzilas/Auto-Unzipper) | Automatically unzips your files with ease | Python 🐍 | ⭐️⭐️⭐️⭐️ |
+| [csgo500train](https://github.com/Nrentzilas/csgo500train) | A bot that claims free bux on csgo500.com | Python 🐍 | ⭐️⭐️⭐️ |
+| [nrentzilas.dev](https://github.com/Nrentzilas/nrentzilas.dev) | My personal portfolio showcasing my work | TypeScript 📝 | ⭐️ |
+| [Discord-Webhook-Announcer](https://github.com/Nrentzilas/Discord-Webhook-Announcer) | Easily send announcements via Discord webhooks | Python 🐍 | ⭐️ |
+| [ImgBB-Uploader](https://github.com/Nrentzilas/ImgBB-Uploader) | GUI uploader that returns direct links for ultrafast uploads | Python 🐍 | ⭐️ |
+| [Showcase](https://github.com/Nrentzilas/Showcase) | Experiments and projects using the Astro.js framework | Astro.js ⚡ | ⭐️ |
+
+> **Tip:** Click on any project title to check out the repository! 😃
+
+---
+
+## 🌟 About Me
+
+- **Studying:** Digital Systems @ UTH 🎓
+- **Dreaming:** To become a Full-Stack Developer 🚀
+- **Based in:** Greece 🇬🇷
+- **Interests:** Sports🏃‍♀️‍➡️, coding 👨‍💻, and everything tech related 🤖
+
+---
+
+## 🛠️ Skills & Tools
+
+| **Category**  | **Technologies** |
+|---------------|------------------|
+| **Languages** | Python 🐍, TypeScript 📝, JavaScript ✨ |
+| **Frameworks**| Astro.js ⚡, React ⚛️, Next.js 🚀, Svelte.js 💫, Vue.js 🟢 |
+| **Tools**     | Git & GitHub 🐙, VSCode 💻, Docker 🐳 |
+| **OS**        | Linux 🐧, Windows 🪟 |
+
+---
+
+## 🌐 Let's Connect!
+
+I'd love to collaborate or just chat about cool projects. Feel free to reach out!
+
+- **GitHub:** [@Nrentzilas](https://github.com/Nrentzilas) 🤖
+- **Website:** [nrentzilas.dev](https://nrentzilas.dev) 🌐
+
+---
+
+Thanks for stopping by!👨‍💻💡
