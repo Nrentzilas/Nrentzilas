@@ -44,7 +44,7 @@ I'd love to collaborate or just chat about cool projects. Feel free to reach out
 
 - **GitHub:** [@Nrentzilas](https://github.com/Nrentzilas) 🤖  
 - **Website:** [nrentzilas.dev](https://nrentzilas.dev) 🌐  
-- **Fiverr:** [@Nrentzilas on Fiverr](https://www.fiverr.com/nrentzilas) 💼  
+- **Fiverr:** [@Nrentzilas on Fiverr](https://www.fiverr.com/rentzilas) 💼  
 
 ---
 
