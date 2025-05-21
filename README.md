@@ -9,7 +9,6 @@ I'm a student at **Digital Systems UTH** 🎓 and an aspiring Full-Stack Develop
 | **Project** | **Description** | **Tech** | **Stars** |
 |-------------|-----------------|----------|-----------|
 | [Auto-Unzipper](https://github.com/Nrentzilas/Auto-Unzipper) | Automatically unzips your files with ease | Python 🐍 | ⭐️⭐️⭐️⭐️ |
-| [csgo500train](https://github.com/Nrentzilas/csgo500train) | A bot that claims free bux on csgo500.com | Python 🐍 | ⭐️⭐️⭐️ |
 | [nrentzilas.dev](https://github.com/Nrentzilas/nrentzilas.dev) | My personal portfolio showcasing my work | TypeScript 📝 | ⭐️ |
 | [Discord-Webhook-Announcer](https://github.com/Nrentzilas/Discord-Webhook-Announcer) | Easily send announcements via Discord webhooks | Python 🐍 | ⭐️ |
 | [ImgBB-Uploader](https://github.com/Nrentzilas/ImgBB-Uploader) | GUI uploader that returns direct links for ultrafast uploads | Python 🐍 | ⭐️ |
@@ -21,9 +20,9 @@ I'm a student at **Digital Systems UTH** 🎓 and an aspiring Full-Stack Develop
 
 ## 🌟 About Me
 
-- **Studying:** Digital Systems @ UTH 🎓
-- **Dreaming:** To become a Full-Stack Developer 🚀
-- **Based in:** Greece 🇬🇷
+- **Studying:** Digital Systems @ UTH 🎓  
+- **Dreaming:** To become a Full-Stack Developer 🚀  
+- **Based in:** Greece 🇬🇷  
 - **Interests:** Sports🏃‍♀️‍➡️, coding 👨‍💻, and everything tech related 🤖
 
 ---
@@ -43,8 +42,9 @@ I'm a student at **Digital Systems UTH** 🎓 and an aspiring Full-Stack Develop
 
 I'd love to collaborate or just chat about cool projects. Feel free to reach out!
 
-- **GitHub:** [@Nrentzilas](https://github.com/Nrentzilas) 🤖
-- **Website:** [nrentzilas.dev](https://nrentzilas.dev) 🌐
+- **GitHub:** [@Nrentzilas](https://github.com/Nrentzilas) 🤖  
+- **Website:** [nrentzilas.dev](https://nrentzilas.dev) 🌐  
+- **Fiverr:** [@Nrentzilas on Fiverr](https://www.fiverr.com/nrentzilas) 💼  
 
 ---
 
